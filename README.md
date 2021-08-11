@@ -1,1 +1,1 @@
-# prediction-using-supervised-learning
+# stock market prediction using numerical and textual analysis
